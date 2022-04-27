@@ -240,7 +240,6 @@
     <di class="buttom">
         <button type="button" class="btn btn-success">Enviar</button>
     </div>
-        <!--Serviços 2°pagina-->
         <div class="title2">
             <div class="container">
                 <h1>Nossas especialidades</h1>
@@ -288,7 +287,6 @@
        <div class="fig6">
            <img src="https://cdn-icons-png.flaticon.com/512/1337/1337042.png" width="65px" height="65px">
        </div>
-       <!--Quemsomos 3º pagina-->
       <div class="title3">
           <h2>Quem Somos</h2>
           <h6>Somos uma plataforma de comércio eletônico cearense pertencente ao Estacio Group, fundada em 2022 por Fulano. Contamos com uma equipe de alto nivel
@@ -311,7 +309,6 @@
             <li>O pagamento pode ser realizado no cartão de crédito ou boleto bancário.</li>
             <li>É um ecommerce que permite que qualquer pessoa crie a sua loja online</li>
         </div>
-        <!--o que dizem sobre nos-->
         <div class="title4">
             <h2>O que dizem sobre nós</h2>
             <br>
